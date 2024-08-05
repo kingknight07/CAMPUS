@@ -21,7 +21,7 @@ CAMPUS is an AI-powered platform designed to revolutionize customer interactions
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-repository/CAMPUS.git
+    git clone https://github.com/kingknight07/CAMPUS.git
     ```
 2. Change to the project directory:
     ```sh
